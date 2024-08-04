@@ -1,4 +1,4 @@
-# Omni-Food Website
+# Omnifood-Never Cook Again
 
 Welcome to the Omni-Food project repository! This is a responsive food delivery landing page created using HTML and CSS. The purpose of this project is to showcase my front-end web development skills and provide an example of a visually appealing and interactive website.
 
@@ -28,6 +28,8 @@ Welcome to the Omni-Food project repository! This is a responsive food delivery 
 ## Acknowledgements
 
 - **Course Instructor** - [Jonas Schmedtmann](https://codingheroes.io/)
+
+  
 
 Thank you for checking out the Omni-Food project!
 
